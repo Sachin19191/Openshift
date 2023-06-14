@@ -1,3 +1,3 @@
-<? php
- print "i am Sachin\n" ;
+<?php
+  echo "Hello, World!";
 ?>
